@@ -1,5 +1,6 @@
 IEOR E4576 — Assignment 2
 Data-Driven Models in Finance — Columbia University, Fall 2026
+
 This repository contains the analysis for Assignment 2, covering:
 CFTC Commitments of Traders (COT) positioning in WTI crude oil (CL)
 accounting-identity checks for legacy and disaggregated COT classifications;
