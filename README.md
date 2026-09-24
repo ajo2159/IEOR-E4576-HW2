@@ -44,7 +44,7 @@ IEOR-E4576-HW2/
 
 ### COT positioning
 
-- Both the legacy and disaggregated COT accounting identities hold to within one contract in **100.0% of weeks** in the sample.
+- Both the legacy and disaggregated COT accounting identities hold to within one contract in **100.0% of evaluable weeks** in the sample.
 - Commercials are net short WTI crude in **96.7% of weeks**.
 - The contemporaneous correlation between roll-consistent CL returns and the weekly change in managed-money net positioning is **+0.3959**.
 - The contemporaneous regression slope is approximately **+1,497 contracts per +1% CL return**.
